@@ -1,2 +1,2 @@
-pck=2
+pck=3
 wasm=1
